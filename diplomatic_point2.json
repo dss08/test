@@ -2917,8 +2917,8 @@
                 "geometry": {
                     "type": "Point",
                     "coordinates": [
-                        -0.56,
-                        166.9
+                        166.9350, 
+                        -0.5289 
                     ]
                 },
                 "properties": {
